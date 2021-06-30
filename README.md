@@ -10,7 +10,7 @@ This repository contains all data for analzying the sentiment and complexity of 
 
 **LSTM_stock_price_Alexander_Schlaubitz.ipynb** -> this file tries to predict stock price development using an LSTM, however no convergence
 
-**all_news_articles_and_earnings_reports.xlsx**  -> Overview of all gathered news articles and earnigns reports
+**all_news_articles_and_earnings_reports.xlsx**  -> Overview of all gathered news articles and earningns reports
 
 **complexity analysis.xlsx** -> Analysis of complexity scores
 
